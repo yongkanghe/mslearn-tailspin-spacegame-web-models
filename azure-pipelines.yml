@@ -1,4 +1,5 @@
 pool:
+  name: pool3 
   vmImage: 'Ubuntu-18.04'
 
 variables:
